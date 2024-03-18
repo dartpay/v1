@@ -1,0 +1,6 @@
+{
+    "require": {
+        "laravel/socialite": "^5.12",
+        "laravel/sanctum": "^2.15"
+    }
+}
